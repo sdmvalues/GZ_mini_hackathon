@@ -2,6 +2,7 @@
 Objective: Simple End to End Product including API, Data and Visualization
 Ideas:
 • Build a prediction model for transaction value, to be called by api deployed in Heroku..output to showcase actual Vs predicted value of 'IDs' in test file
+
 Work streams:
 1.  Access data from https://www.kaggle.com/c/santander-value-prediction-challenge/data
 2.  Create Flask API
