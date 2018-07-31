@@ -1,7 +1,7 @@
 # GZ_mini_hackathon - Guideline
 Objective: Simple End to End Product including API, Data and Visualization
 Ideas:
-• Build a prediction model for transaction value, to be called by api deployed in Heroku..output to showcase actual Vs predicted value of 'IDs' in test file
+• Build a prediction model on 70% of train data for transaction value, to be called by api deployed in Heroku..output to showcase actual Vs predicted value by ID calls for holdout 30% of train data, and predicted value for test file
 
 Work streams:
 1.  Access data from https://www.kaggle.com/c/santander-value-prediction-challenge/data
